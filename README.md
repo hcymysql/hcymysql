@@ -1,4 +1,4 @@
-- 👋 《MySQL运维进阶指南》一书出版
+- 👋 《MySQL运维进阶指南》一书出版  https://item.jd.com/10061873553633.html
 - 👀 https://detail.tmall.com/item.htm?abbucket=8&id=686266516132&ns=1&spm=a230r.1.14.1.1f08570avQGu7e
 - 🌱 http://product.dangdang.com/29472732.html
 - 💞️ http://product.china-pub.com/8090688
