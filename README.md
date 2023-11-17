@@ -3,6 +3,8 @@
 - 🌱 http://product.dangdang.com/29472732.html
 - 💞️ http://product.china-pub.com/8090688
 - 📫 在线试读：https://book.qq.com/book-read/46055441/1
+- 台湾省 https://www.books.com.tw/products/CN11826112?sloc=main
+- 台湾省 http://search.megbook.com.tw/mall/detail.jsp?proID=3800804
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hcymysql)](https://github.com/anuraghazra/github-readme-stats)
 
